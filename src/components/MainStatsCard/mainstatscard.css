@@ -1,0 +1,68 @@
+.stats__card {
+  height: 180px;
+}
+
+.card .card-stats {
+  box-sizing: border-box;
+}
+.stats___header {
+  display: flex;
+  align-items: center;
+}
+
+.stats__title {
+  text-align: center;
+  margin: 5px;
+  font-weight: bold;
+}
+
+.stats__imgage {
+  height: 30px;
+  width: 30px;
+  margin-right: 1px;
+}
+
+.stats__cases {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+
+.subheading {
+  font-size: 10px;
+  text-align: center;
+  color: #333;
+  margin-bottom: 18px;
+}
+
+.cases1 {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.percent {
+  margin-left: 2px;
+  font-size: 12px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+.stats__card {
+  margin-bottom: 15px;
+}
+
+hr {
+  margin: 5px;
+}

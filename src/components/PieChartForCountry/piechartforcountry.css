@@ -1,0 +1,31 @@
+.pie__header {
+  display: flex;
+}
+
+.pie__icon {
+  height: 28px;
+  width: 28px;
+  margin: 12px;
+}
+
+.pie__title {
+  align-self: center;
+  font-size: 22px;
+  font-weight: bolder;
+}
+
+.piechart_label {
+  font-weight: bolder;
+  padding-right: 5px;
+}
+
+.countryPieChart__header {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 10px;
+  align-items: center;
+}
+.countryPieChart__dropdown {
+  background-color: white;
+  padding: 0px;
+}

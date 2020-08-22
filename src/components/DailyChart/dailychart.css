@@ -1,0 +1,16 @@
+.dailyChart_dropdown {
+    background-color: white;
+    width: 65px;
+}
+
+.dailyChart_header {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.dailyChart_label {
+    padding-right: 5px;
+    font-weight: bolder;
+}

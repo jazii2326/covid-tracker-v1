@@ -1,0 +1,15 @@
+.pie__header {
+  display: flex;
+}
+
+.pie__icon1 {
+  height: 30px;
+  width: 30px;
+  margin: 12px;
+}
+
+.pie__title {
+  align-self: center;
+  font-size: 22px;
+  font-weight: bolder;
+}

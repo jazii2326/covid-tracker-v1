@@ -1,0 +1,8 @@
+.robo_name {
+    display: flex;
+    flex-direction: column;
+}
+
+.robolyx {
+    line-height: 0.2;
+}

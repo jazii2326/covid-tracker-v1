@@ -1,0 +1,7 @@
+.card .ct-chart {
+    margin: 5px 0 5px;
+}
+
+.card__header {
+    display: flex;
+}

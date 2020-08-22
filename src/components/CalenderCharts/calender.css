@@ -1,0 +1,9 @@
+.calenderchart__title {
+  font-weight: bolder;
+  margin-bottom: 0px;
+  font-size: 22px;
+}
+
+.calender__select {
+  height: 25px;
+}

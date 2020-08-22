@@ -1,0 +1,11 @@
+.nivomap__header {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 10px;
+  align-items: center;
+}
+
+.nivomap__title {
+  padding-right: 5px;
+  font-weight: bolder;
+}

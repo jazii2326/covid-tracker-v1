@@ -1,0 +1,45 @@
+.infoBox {
+  flex: 1;
+}
+
+.infoBox:not(:last-child) {
+  margin-right: 10px;
+}
+
+.infoBox--selected {
+  border-top: 10px solid greenyellow;
+}
+
+.infoBox--red {
+  border-color: red;
+}
+
+.infoBox__cases--green {
+  color: lightgreen !important;
+}
+
+.infoBox__cases {
+  color: #cc1034;
+  font-weight: 600;
+  font-size: 6rem;
+  margin-bottom: 0.1rem;
+  margin-top: 0px !important;
+}
+.infoBox__title {
+  font-size: 2.5rem !important;
+  color: #264653 !important;
+  font-weight: bolder !important;
+  margin-bottom: 0px !important;
+}
+
+.infoBox__total {
+  color: #6c757d;
+  font-weight: 700 !important;
+  font-size: 1.8rem !important;
+  margin-top: 5px !important;
+}
+.infobox__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
