@@ -6,7 +6,7 @@
         "yarn": "1.22.4",
         "npm": "6.14.6"
     },
-    "homepage": "https://mwaqaskh.github.io/CovidTracker_V1",
+    "homepage": "https://jazii2326.github.io/covid-tracker",
     "private": true,
     "dependencies": {
         "@material-ui/core": "^4.11.0",
@@ -17,6 +17,7 @@
         "bootstrap": "3.3.7",
         "chart.js": "^2.9.3",
         "chartist": "0.10.1",
+        "gh-pages": "^3.1.0",
         "leaflet": "^1.6.0",
         "material-table": "^1.68.0",
         "node-sass": "^4.14.1",
