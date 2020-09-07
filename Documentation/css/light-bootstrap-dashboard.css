@@ -1377,10 +1377,12 @@ body > .navbar-collapse[data-color="purple"]:after {
   .navbar .btn-simple {
     font-size: 16px; }
   .navbar.fixed {
-    width: calc(100% - $sidebar-width);
+    width: calc(100% - sidebar-width);
     right: 0;
     left: auto;
-    border-radius: 0; }
+    border-radius: 0; 
+  
+  }
 
 .navbar-nav > li > .dropdown-menu {
   border-radius: 10px;
@@ -2925,7 +2927,9 @@ body > .navbar-collapse[data-color="purple"]:after {
   .dropdown-menu {
     display: none; }
   .navbar-fixed-top {
-    -webkit-backface-visibility: hidden; }
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
   #bodyClick {
     height: 100%;
     width: 100%;

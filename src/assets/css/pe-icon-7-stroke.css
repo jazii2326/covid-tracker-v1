@@ -372,7 +372,7 @@
     content: "\e61c";
 }
 
-.pe-7s-add-user:befor content: "\e6a9";
+.pe-7s-add-user:before{ content: "\e6a9";
 
 }
 .pe-7s-refresh-cloud:before {
@@ -400,7 +400,7 @@
     content: "\e69f";
 }
 .pe-7s-power:before {
-    otent: "\e621";
+    content: "\e621";
 }
 .pe-7s-medal:before {
     content: "\e6a0";
@@ -412,7 +412,7 @@
     content: "\e6a1";
 }
 .pe-7s-plus:before {
-    otent: "\e623";
+    content: "\e623";
 }
 .pe-7s-left-arrow:before {
     content: "\e6a2";
@@ -448,13 +448,13 @@
     content: "\e699";
 }
 .pe-7s-paper-plane:before {
-    otent: "\e629";
+    content: "\e629";
 }
 .p e-7s-delete-user:before {
-    contente7s-paint:before {
+   
         content: "\e62a";
-        );
-    }
+        }
+   
     
     .pe-7s-bottom-arrow:before {
         content: "\e6a8";
@@ -476,8 +476,8 @@
         content: "\e62e";
     }
     
-    .7s-musi content: e7s-music:before {
-        );
+    .pe-7s-music :before {
+        content:"\e62f";
     }
     
     .p e-7s-mouse:before {
@@ -490,8 +490,9 @@
     
     .p e-7s-moon:before {
         content: "\e633";
-        -7s-monitor: b content: "\e634";
-        );
+    }
+        .pe-7s-monitor:before{content: "\e634";
+        }
         .pe-7s-micro:before {
             content: "\e635";
         }
@@ -501,10 +502,10 @@
         .pe-smap:before {
             content: "\e637";
         }
-        .7s-map- content:
-    }
+
+     
     
-    .7s-mail:before {
+    .p-7s-mail:before {
         content: "\e639";
     }
     
@@ -520,7 +521,7 @@
         content: "\e63c";
     }
     
-    .7s-loop:befo content: "\e63d";
+    .p-7s-loop:before{ content: "\e63d";
 }
 .p e-7s-look:before {
     content: "\e63e";
@@ -531,8 +532,7 @@
 .pe-slintern:before {
     content: "\e640";
 }
--7s-link content: -7s-like:before {
-    );
+.p e-7s-link:before{ content: p-7s-like;
 }
 .pe-7s-light:before {
     content: "\e643";
@@ -542,8 +542,9 @@
 }
 .pe-7s-keypad:before {
     content: "\e645";
-    -7s-junk: befo content: "\e646";
-    );
+}
+    .p-7s-junk:before {content: "\e646";
+    }
     .pe-7s-info:before {
         content: "\e647";
     }
@@ -597,7 +598,7 @@
     }
     
     .pe-7s-flag:before {
-        cnent: "\e654";
+        content: "\e654";
     }
     
     .p e-7s-filter:before {
